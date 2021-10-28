@@ -30,12 +30,15 @@ isbanondeathenabled
 # Command explanation
 
 1. togglebanondeath
+
 This command will enable or disable the banning of dead players. If you were to run this command if BanOnDeath is already enabled, it will be disabled.
 This command requires the player who is executing it to be an operator.
 
 2. isbanondeathenabled
+
 This command will inform the player who is executing the command, if BanOnDeath is enabled.
 
 3. togglespectateondeath
+
 This command will enable or disable the forcing of dead players into spectator mode. If you were to run this command if the forcing of dead players into spectator mode is
 already enabled, it will be disabled. This command requires the player who is executing it to be an operator.
