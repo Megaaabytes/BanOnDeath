@@ -1,0 +1,15 @@
+  name: BanOnDeath
+  main: megaabytes.banondeath.BanOnDeath
+  version: 1.1
+  description: Bans Players when they get elminated in Minecraft.
+  author: MegaaBytes
+  commands:
+    togglebanondeath:
+      description: Enable banning the players when they get eliminated.
+      usage: /togglebanondeath
+    isbanondeathenabled:
+      description: Check wether if the server is locked to one life.
+      usage: /isbanondeathenabled
+    togglespectateondeath:
+      description: Forces dead players to become spectators.
+      usage: /togglebanondeath
